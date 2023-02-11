@@ -1,0 +1,15 @@
+C:\Users\Kactp\Desktop\Sem001\Exampler001\bin\Debug\net6.0\Exampler001.exe
+C:\Users\Kactp\Desktop\Sem001\Exampler001\bin\Debug\net6.0\Exampler001.deps.json
+C:\Users\Kactp\Desktop\Sem001\Exampler001\bin\Debug\net6.0\Exampler001.runtimeconfig.json
+C:\Users\Kactp\Desktop\Sem001\Exampler001\bin\Debug\net6.0\Exampler001.dll
+C:\Users\Kactp\Desktop\Sem001\Exampler001\bin\Debug\net6.0\Exampler001.pdb
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.csproj.AssemblyReference.cache
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.AssemblyInfoInputs.cache
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.AssemblyInfo.cs
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.csproj.CoreCompileInputs.cache
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.dll
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\refint\Exampler001.dll
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.pdb
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\Exampler001.genruntimeconfig.cache
+C:\Users\Kactp\Desktop\Sem001\Exampler001\obj\Debug\net6.0\ref\Exampler001.dll
